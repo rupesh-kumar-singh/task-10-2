@@ -1,0 +1,23 @@
+  body{
+    background: url("./annie-spratt-zA7I5BtFbvw-unsplash.jpg");
+  }
+  .input-field{
+    display: block;
+    margin: 30px auto;
+  }
+  .input{
+    padding: 6px;
+  }
+
+
+.max{
+    max-width: 1000px;
+    width: 90%;
+}
+
+.div{
+    margin-bottom: 30px;
+}
+.holy{
+    margin-bottom: 30px;
+}
